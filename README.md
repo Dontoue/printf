@@ -4,3 +4,4 @@ The printf project is a collaboration between Donald Mwanga and Malcom Mwawongo,
 The format tags prototype is the following:
                                                            %[flags][length]specifier
 If the program runs successfully, the return value is the amount of chars printed out .
+## Example
